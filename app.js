@@ -1,0 +1,1 @@
+const autor = _ => alert("Esta página fue creada por Alejandro Jesús Bautista Arellano")
